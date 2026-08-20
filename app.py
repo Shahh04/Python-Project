@@ -143,25 +143,25 @@ avengers = [
 
     {
         "name": "IRON MAN",
-        "image": "https://github.com/Shahh04/Python-Project/blob/main/Iron_Man_Mark_III_armor_from_Iron_Man_(2008_film).jpg?raw=true",
+        "image": "https://github.com/Shahh04/Python-Project/blob/main/images/Iron_Man_Mark_III_armor_from_Iron_Man_(2008_film).jpg?raw=true",
         "quote": "Truth is...I am Iron Man."
     },
 
     {
         "name": "CAPTAIN AMERICA",
-        "image": "C:\\Users\\shahi\\OneDrive\\Desktop\\captain america.jpg",
+        "image": "https://github.com/Shahh04/Python-Project/blob/main/images/captain%20america.jpg?raw=true",
         "quote": "I can do this all day."
     },
 
     {
         "name": "THANOS",
-        "image": "C:\\Users\\shahi\\OneDrive\\Desktop\\Behold_The_Mad_Titan_Thanos.webp",
+        "image": "https://github.com/Shahh04/Python-Project/blob/main/images/Behold_The_Mad_Titan_Thanos.webp?raw=true",
         "quote": "The hardest choices require the strongest wills."
     },
 
     {
         "name": "DOCTOR STRANGE",
-        "image": "C:\\Users\\shahi\\OneDrive\\Desktop\\dr strange.jpg",
+        "image": "https://github.com/Shahh04/Python-Project/blob/main/images/dr%20strange.jpg?raw=true",
         "quote": "I love you. I love you in every universe. It's not that I don't want to care or want someone to care for me... it's just I get scared."
     }
 
